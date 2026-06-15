@@ -24,3 +24,9 @@ git commit -m "Add Git lesson notes"
 - `git status` shows what changed.
 - `git add` chooses what goes into the next commit.
 - `git commit` saves the chosen changes as a snapshot.
+
+## Branch Practice
+
+- `master` is the main line of work.
+- `my-progress` is a learning branch for experiments.
+- Branches let you try changes without disturbing the main line.

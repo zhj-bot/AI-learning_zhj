@@ -27,6 +27,17 @@ npx.cmd --yes skills add rohitg00/ai-engineering-from-scratch
 At the end of every study session, remember to upload local changes to GitHub.
 Local files are not synced automatically. GitHub updates only after `git push`.
 
+## End-of-Lesson Workflow
+
+At the end of each lesson, Codex should help create or update:
+
+- A detailed, beginner-friendly lesson note for the completed lesson.
+- The `Current Progress` section in this README.
+- The after-class exercises for that lesson.
+- Feedback on my exercise answers, including mistakes and corrections.
+- A short learning progress summary that explains what I understand well,
+  what still needs review, and what lesson to study next.
+
 After editing notes or adding practice files:
 
 ```powershell
@@ -38,9 +49,17 @@ git push
 
 ## Current Progress
 
-- Phase 0 Lesson 2: Git & Collaboration
-- Completed local Git workflow: add, commit, branch, merge
-- Connected local repository to GitHub remote
+- Current lesson: Phase 0 Lesson 3: GPU Setup & Cloud
+- Status: Completed
+- Completed skills: Git basics, GitHub remote workflow, basic CPU/GPU/cloud GPU
+  decision rules
+- Latest exercise feedback: Correctly identified when GPU is needed; review the
+  precise definitions of CPU, GPU, API, local GPU, and cloud GPU.
+- Learning preference: Explain every new technical term for a zero-basis learner
+  with a plain-language definition, analogy, AI engineering use case, and small
+  example.
+- Next step: Continue to Phase 0 Lesson 4 after committing and pushing the
+  updated notes to GitHub.
 
 ## Useful Commands
 

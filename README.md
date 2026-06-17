@@ -24,6 +24,9 @@ npx.cmd --yes skills add rohitg00/ai-engineering-from-scratch
 
 ## Daily Learning Workflow
 
+At the end of every study session, remember to upload local changes to GitHub.
+Local files are not synced automatically. GitHub updates only after `git push`.
+
 After editing notes or adding practice files:
 
 ```powershell

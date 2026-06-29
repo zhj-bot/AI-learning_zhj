@@ -49,17 +49,19 @@ git push
 
 ## Current Progress
 
-- Current lesson: Phase 0 Lesson 3: GPU Setup & Cloud
-- Status: Completed
+- Current lesson: Phase 0 Lesson 4: APIs & Keys
+- Status: In progress
 - Completed skills: Git basics, GitHub remote workflow, basic CPU/GPU/cloud GPU
-  decision rules
-- Latest exercise feedback: Correctly identified when GPU is needed; review the
-  precise definitions of CPU, GPU, API, local GPU, and cloud GPU.
+  decision rules, API request-response basics, endpoint/API key/request
+  body/response body, environment variables for API keys
+- Latest exercise feedback: Correctly identified endpoint, API key, request
+  body, and response body; correctly chose environment variables over hardcoded
+  API keys to avoid exposing secrets on GitHub.
 - Learning preference: Explain every new technical term for a zero-basis learner
   with a plain-language definition, analogy, AI engineering use case, and small
   example.
-- Next step: Continue to Phase 0 Lesson 4 after committing and pushing the
-  updated notes to GitHub.
+- Next step: Answer Phase 0 Lesson 4 Exercise 3 about HTTP and SDK, then
+  continue to the first hands-on API call.
 
 ## Useful Commands
 
